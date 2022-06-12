@@ -1,1 +1,2 @@
-# javascript-game2
+# javascript-game
+lol
